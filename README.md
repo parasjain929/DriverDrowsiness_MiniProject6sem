@@ -7,7 +7,7 @@ In this project we are detecting driver Drowsiness Using Open CV and Python.
 <li>numpy</li>
 <li>playsound for playing Alarm</li>
 <li>dlib</li>
-
+<br><br>
 My drowsiness detector hinged on two important computer vision techniques:
 
 Facial landmark detection
