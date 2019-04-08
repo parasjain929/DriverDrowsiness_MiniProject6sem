@@ -1,5 +1,5 @@
 # Driver Drowsiness_
-Drowsiness detection Using Open CV and Python.
+In this project we are detecting driver Drowsiness Using Open CV and Python.
 
 libraries used:
 SciPy for Euclidean distance
@@ -8,7 +8,7 @@ numpy
 playsound for playing Alarm
 dlib
 
-Our drowsiness detector hinged on two important computer vision techniques:
+My drowsiness detector hinged on two important computer vision techniques:
 
 Facial landmark detection
 Eye aspect ratio
@@ -25,7 +25,7 @@ If the eye is closed, the eye aspect ratio will again remain approximately const
 
 <img src="https://github.com/parasjain929/DriverDrowsiness_MiniProject6sem/blob/master/eye.jpg"/>
 
-#ALGORITHM
+# ALGORITHM
 
 we make a check to see if the eye aspect ratio is below the “blink/closed” eye threshold, EYE_AR_THRESH .
 
