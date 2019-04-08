@@ -1,12 +1,12 @@
 # Driver Drowsiness_
 In this project we are detecting driver Drowsiness Using Open CV and Python.
 
-libraries used:
-SciPy for Euclidean distance
-imutils
-numpy
-playsound for playing Alarm
-dlib
+<h3>libraries used:</h3>
+<li>SciPy for Euclidean distance</li>
+<li>imutils</li>
+<li>numpy</li>
+<li>playsound for playing Alarm</li>
+<li>dlib</li>
 
 My drowsiness detector hinged on two important computer vision techniques:
 
