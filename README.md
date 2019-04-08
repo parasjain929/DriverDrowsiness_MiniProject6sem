@@ -13,4 +13,6 @@ The return value of the eye aspect ratio will be approximately constant when the
 If the eye is closed, the eye aspect ratio will again remain approximately constant, but will be much smaller than the ratio when the eye is open.
 
 To visualize this, consider the following figure from Soukupová and Čech’s 2016 paper
-![Screenshot 1]\(https://github.com/parasjain929/DriverDrowsiness_MiniProject6sem/blob/master/eye.jpg)
+
+
+<img src="https://github.com/parasjain929/DriverDrowsiness_MiniProject6sem/blob/master/eye.jpg"/>
